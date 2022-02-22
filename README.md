@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - A Software Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Guangzhou, China.
-- 💬 Ask me about Java, C++ and my projects on [304080325@qq.com](mailto:304080325@qq.com)
+- 💬 Ask me about Java, C++ and my projects on [yilong.huang@outlook.com](mailto:yilong.huang@outlook.com)
 <!-- - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus) -->
 <!-- - ⚡ Fun fact: Data Analysis📊 -->
 
