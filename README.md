@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm YiLong Huang
+### I'm Yilong Huang
 
 - A Software Engineering Undergraduate Student. & Open Source beginner.
 - 🌱 Currently working in Guangzhou, China.
