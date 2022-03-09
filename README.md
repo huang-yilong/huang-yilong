@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**huangyilong2000/huangyilong2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Trydamere/Trydamere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Huang YiLong
+### I'm YiLong Huang
 
-- A Software Engineering Undergraduate Student. & Open Source enthusiast.
+- A Software Engineering Undergraduate Student. & Open Source beginner.
 - 🌱 Currently working in Guangzhou, China.
 - 💬 Ask me about Java, C++ and my projects on [yilong.huang@outlook.com](mailto:yilong.huang@outlook.com)
 <!-- - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus) -->
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 <!-- > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*** -->
 
-⭐️ From [Hyl](https://github.com/Huangyilong2000)
+⭐️ From [Trydamere](https://github.com/Trydamere)
