@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 <!-- > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*** -->
 
-⭐️ From [Trydamere](https://github.com/Trydamere)
+<!--⭐️ From [Trydamere](https://github.com/Trydamere)->
